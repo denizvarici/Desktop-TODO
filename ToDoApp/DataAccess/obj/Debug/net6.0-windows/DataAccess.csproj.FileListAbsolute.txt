@@ -1,0 +1,5 @@
+R:\GITHUB\Desktop-TODO\ToDoApp\DataAccess\obj\Debug\net6.0-windows\DataAccess.csproj.AssemblyReference.cache
+R:\GITHUB\Desktop-TODO\ToDoApp\DataAccess\obj\Debug\net6.0-windows\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+R:\GITHUB\Desktop-TODO\ToDoApp\DataAccess\obj\Debug\net6.0-windows\DataAccess.AssemblyInfoInputs.cache
+R:\GITHUB\Desktop-TODO\ToDoApp\DataAccess\obj\Debug\net6.0-windows\DataAccess.AssemblyInfo.cs
+R:\GITHUB\Desktop-TODO\ToDoApp\DataAccess\obj\Debug\net6.0-windows\DataAccess.csproj.CoreCompileInputs.cache

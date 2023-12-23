@@ -1,0 +1,11 @@
+R:\GITHUB\Desktop-TODO\ToDoApp\Entities\bin\Debug\net6.0-windows\Entities.deps.json
+R:\GITHUB\Desktop-TODO\ToDoApp\Entities\bin\Debug\net6.0-windows\Entities.dll
+R:\GITHUB\Desktop-TODO\ToDoApp\Entities\bin\Debug\net6.0-windows\Entities.pdb
+R:\GITHUB\Desktop-TODO\ToDoApp\Entities\obj\Debug\net6.0-windows\Entities.GeneratedMSBuildEditorConfig.editorconfig
+R:\GITHUB\Desktop-TODO\ToDoApp\Entities\obj\Debug\net6.0-windows\Entities.AssemblyInfoInputs.cache
+R:\GITHUB\Desktop-TODO\ToDoApp\Entities\obj\Debug\net6.0-windows\Entities.AssemblyInfo.cs
+R:\GITHUB\Desktop-TODO\ToDoApp\Entities\obj\Debug\net6.0-windows\Entities.csproj.CoreCompileInputs.cache
+R:\GITHUB\Desktop-TODO\ToDoApp\Entities\obj\Debug\net6.0-windows\Entities.dll
+R:\GITHUB\Desktop-TODO\ToDoApp\Entities\obj\Debug\net6.0-windows\refint\Entities.dll
+R:\GITHUB\Desktop-TODO\ToDoApp\Entities\obj\Debug\net6.0-windows\Entities.pdb
+R:\GITHUB\Desktop-TODO\ToDoApp\Entities\obj\Debug\net6.0-windows\ref\Entities.dll

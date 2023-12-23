@@ -1,0 +1,16 @@
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\bin\Debug\net6.0-windows\ToDoUI.exe
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\bin\Debug\net6.0-windows\ToDoUI.deps.json
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\bin\Debug\net6.0-windows\ToDoUI.runtimeconfig.json
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\bin\Debug\net6.0-windows\ToDoUI.dll
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\bin\Debug\net6.0-windows\ToDoUI.pdb
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\obj\Debug\net6.0-windows\ToDoUI.Form1.resources
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\obj\Debug\net6.0-windows\ToDoUI.csproj.GenerateResource.cache
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\obj\Debug\net6.0-windows\ToDoUI.GeneratedMSBuildEditorConfig.editorconfig
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\obj\Debug\net6.0-windows\ToDoUI.AssemblyInfoInputs.cache
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\obj\Debug\net6.0-windows\ToDoUI.AssemblyInfo.cs
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\obj\Debug\net6.0-windows\ToDoUI.csproj.CoreCompileInputs.cache
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\obj\Debug\net6.0-windows\ToDoUI.dll
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\obj\Debug\net6.0-windows\refint\ToDoUI.dll
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\obj\Debug\net6.0-windows\ToDoUI.pdb
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\obj\Debug\net6.0-windows\ToDoUI.genruntimeconfig.cache
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\obj\Debug\net6.0-windows\ref\ToDoUI.dll
