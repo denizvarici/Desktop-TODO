@@ -10,5 +10,10 @@ namespace Business.Abstract
     public interface ITodoService
     {
         List<Todo> GetAll();
+        void Add(Todo todo);
+
+        void Delete(int id);
+
+        void Update(Todo todo);
     }
 }

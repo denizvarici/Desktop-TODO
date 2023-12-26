@@ -7,7 +7,12 @@ using System.Threading.Tasks;
 
 namespace DataAccess.Abstract
 {
-    public interface ITodoDal:IEntityRepository<Todo>
+    public interface ITodoDal
     {
+        List<Todo> GetAll();
+        void Add(Todo todo);
+        void Delete(int id);
+
+        void Update(Todo todo);
     }
 }

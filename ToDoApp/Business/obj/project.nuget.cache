@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "CorNhHhk2odORUtftwRcdJq6V1fucaEBC8sMY2tCq5nPmXNTSrVGDLGV8L0yHVNqhFHy1RTxnBK7DMHQbuX3SQ==",
+  "dgSpecHash": "dkaqZ1WrtAYeg/fko/qvBTCZVSyQvBwx074Qd/RYldHCbxvXZ7QvlQviZ5D70AnrG1iNLnLBQewhyQMgGMVjUQ==",
   "success": true,
   "projectFilePath": "R:\\GITHUB\\Desktop-TODO\\ToDoApp\\Business\\Business.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\excalibur\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\excalibur\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -3,13 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{4FEA9BBD-4694-44EC-AAE3-D0424B0C82B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{4FEA9BBD-4694-44EC-AAE3-D0424B0C82B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{7F32BC9D-3AAE-4ABB-87FF-FD2ADF804785}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{7F32BC9D-3AAE-4ABB-87FF-FD2ADF804785}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{7FADFB6D-6777-479C-AFF7-1590B82B2D4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business", "Business\Business.csproj", "{7FADFB6D-6777-479C-AFF7-1590B82B2D4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoUI", "ToDoUI\ToDoUI.csproj", "{81115A38-C269-4C8F-9092-72B807DD9CD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoUI", "ToDoUI\ToDoUI.csproj", "{81115A38-C269-4C8F-9092-72B807DD9CD3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0FC6DA6B-CBF7-442B-8567-B05A40E5602A}"
+	ProjectSection(SolutionItems) = preProject
+		ToDo.db = ToDo.db
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

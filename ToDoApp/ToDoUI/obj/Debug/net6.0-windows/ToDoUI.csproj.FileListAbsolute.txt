@@ -3,7 +3,6 @@ R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\bin\Debug\net6.0-windows\ToDoUI.deps.json
 R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\bin\Debug\net6.0-windows\ToDoUI.runtimeconfig.json
 R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\bin\Debug\net6.0-windows\ToDoUI.dll
 R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\bin\Debug\net6.0-windows\ToDoUI.pdb
-R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\obj\Debug\net6.0-windows\ToDoUI.Form1.resources
 R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\obj\Debug\net6.0-windows\ToDoUI.csproj.GenerateResource.cache
 R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\obj\Debug\net6.0-windows\ToDoUI.GeneratedMSBuildEditorConfig.editorconfig
 R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\obj\Debug\net6.0-windows\ToDoUI.AssemblyInfoInputs.cache
@@ -14,3 +13,18 @@ R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\obj\Debug\net6.0-windows\refint\ToDoUI.dll
 R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\obj\Debug\net6.0-windows\ToDoUI.pdb
 R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\obj\Debug\net6.0-windows\ToDoUI.genruntimeconfig.cache
 R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\obj\Debug\net6.0-windows\ref\ToDoUI.dll
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\bin\Debug\net6.0-windows\Business.dll
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\bin\Debug\net6.0-windows\DataAccess.dll
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\bin\Debug\net6.0-windows\Entities.dll
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\bin\Debug\net6.0-windows\Business.pdb
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\bin\Debug\net6.0-windows\DataAccess.pdb
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\bin\Debug\net6.0-windows\Entities.pdb
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\obj\Debug\net6.0-windows\ToDoUI.csproj.AssemblyReference.cache
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\obj\Debug\net6.0-windows\ToDoUI.csproj.CopyComplete
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\obj\Debug\net6.0-windows\ToDoUI.AddTodoForm.resources
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\obj\Debug\net6.0-windows\ToDoUI.MainForm.resources

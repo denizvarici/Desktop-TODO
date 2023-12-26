@@ -1,5 +1,15 @@
+R:\GITHUB\Desktop-TODO\ToDoApp\DataAccess\bin\Debug\net6.0-windows\DataAccess.deps.json
+R:\GITHUB\Desktop-TODO\ToDoApp\DataAccess\bin\Debug\net6.0-windows\DataAccess.dll
+R:\GITHUB\Desktop-TODO\ToDoApp\DataAccess\bin\Debug\net6.0-windows\DataAccess.pdb
+R:\GITHUB\Desktop-TODO\ToDoApp\DataAccess\bin\Debug\net6.0-windows\Entities.dll
+R:\GITHUB\Desktop-TODO\ToDoApp\DataAccess\bin\Debug\net6.0-windows\Entities.pdb
 R:\GITHUB\Desktop-TODO\ToDoApp\DataAccess\obj\Debug\net6.0-windows\DataAccess.csproj.AssemblyReference.cache
 R:\GITHUB\Desktop-TODO\ToDoApp\DataAccess\obj\Debug\net6.0-windows\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
 R:\GITHUB\Desktop-TODO\ToDoApp\DataAccess\obj\Debug\net6.0-windows\DataAccess.AssemblyInfoInputs.cache
 R:\GITHUB\Desktop-TODO\ToDoApp\DataAccess\obj\Debug\net6.0-windows\DataAccess.AssemblyInfo.cs
 R:\GITHUB\Desktop-TODO\ToDoApp\DataAccess\obj\Debug\net6.0-windows\DataAccess.csproj.CoreCompileInputs.cache
+R:\GITHUB\Desktop-TODO\ToDoApp\DataAccess\obj\Debug\net6.0-windows\DataAccess.csproj.CopyComplete
+R:\GITHUB\Desktop-TODO\ToDoApp\DataAccess\obj\Debug\net6.0-windows\DataAccess.dll
+R:\GITHUB\Desktop-TODO\ToDoApp\DataAccess\obj\Debug\net6.0-windows\refint\DataAccess.dll
+R:\GITHUB\Desktop-TODO\ToDoApp\DataAccess\obj\Debug\net6.0-windows\DataAccess.pdb
+R:\GITHUB\Desktop-TODO\ToDoApp\DataAccess\obj\Debug\net6.0-windows\ref\DataAccess.dll
