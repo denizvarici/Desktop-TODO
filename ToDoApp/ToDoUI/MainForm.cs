@@ -84,7 +84,7 @@ namespace ToDoUI
                 label.Text = "TAMAMLANDI!";
                 label.TextAlign = ContentAlignment.MiddleCenter;
                 label.Size = new System.Drawing.Size(120, 30);
-                label.Location = new System.Drawing.Point(25, 120);               
+                label.Location = new System.Drawing.Point(25, 120);
                 label.BackColor = Color.White;
                 label.Name = todo.Id.ToString();
 
@@ -102,7 +102,7 @@ namespace ToDoUI
                     currentY += groupBoxHeight + gapBetweenGroupBoxes;
                 }
 
-                if(todo.TodoIsDoneInfo == 1)
+                if (todo.TodoIsDoneInfo == 1)
                 {
                     groupBox.BackColor = Color.GreenYellow;
                     groupBox.Controls.Add(deleteButton);
@@ -230,7 +230,7 @@ namespace ToDoUI
             {
                 if (control2 is Button editButton)
                 {
-                    if(todoIsDoneInfo == 1)
+                    if (todoIsDoneInfo == 1)
                     {
                         Label label = new Label();
                         label.Text = "TAMAMLANDI!";
@@ -254,16 +254,13 @@ namespace ToDoUI
                         currentGroupBox.Controls.Remove(currentGroupBox.Controls.OfType<CheckBox>().FirstOrDefault());
                         break;
                     }
-                    
+
                 }
             }
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            dgwDatas.DataSource = _todoService.GetAll();
-        }
+       
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
