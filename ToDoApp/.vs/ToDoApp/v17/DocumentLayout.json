@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "R:\\GITHUB\\Desktop-TODO\\ToDoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F32BC9D-3AAE-4ABB-87FF-FD2ADF804785}|DataAccess\\DataAccess.csproj|r:\\github\\desktop-todo\\todoapp\\dataaccess\\concrete\\dbinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F32BC9D-3AAE-4ABB-87FF-FD2ADF804785}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\dbinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F32BC9D-3AAE-4ABB-87FF-FD2ADF804785}|DataAccess\\DataAccess.csproj|R:\\GITHUB\\Desktop-TODO\\ToDoApp\\dataaccess\\concrete\\sqlitetododal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F32BC9D-3AAE-4ABB-87FF-FD2ADF804785}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\sqlitetododal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81115A38-C269-4C8F-9092-72B807DD9CD3}|ToDoUI\\ToDoUI.csproj|R:\\GITHUB\\Desktop-TODO\\ToDoApp\\todoui\\addtodoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81115A38-C269-4C8F-9092-72B807DD9CD3}|ToDoUI\\ToDoUI.csproj|solutionrelative:todoui\\addtodoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81115A38-C269-4C8F-9092-72B807DD9CD3}|ToDoUI\\ToDoUI.csproj|R:\\GITHUB\\Desktop-TODO\\ToDoApp\\todoui\\addtodoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81115A38-C269-4C8F-9092-72B807DD9CD3}|ToDoUI\\ToDoUI.csproj|solutionrelative:todoui\\addtodoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81115A38-C269-4C8F-9092-72B807DD9CD3}|ToDoUI\\ToDoUI.csproj|R:\\GITHUB\\Desktop-TODO\\ToDoApp\\todoui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81115A38-C269-4C8F-9092-72B807DD9CD3}|ToDoUI\\ToDoUI.csproj|solutionrelative:todoui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81115A38-C269-4C8F-9092-72B807DD9CD3}|ToDoUI\\ToDoUI.csproj|R:\\GITHUB\\Desktop-TODO\\ToDoApp\\todoui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81115A38-C269-4C8F-9092-72B807DD9CD3}|ToDoUI\\ToDoUI.csproj|solutionrelative:todoui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81115A38-C269-4C8F-9092-72B807DD9CD3}|ToDoUI\\ToDoUI.csproj|R:\\GITHUB\\Desktop-TODO\\ToDoApp\\todoui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81115A38-C269-4C8F-9092-72B807DD9CD3}|ToDoUI\\ToDoUI.csproj|solutionrelative:todoui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F32BC9D-3AAE-4ABB-87FF-FD2ADF804785}|DataAccess\\DataAccess.csproj|R:\\GITHUB\\Desktop-TODO\\ToDoApp\\dataaccess\\abstract\\itododal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F32BC9D-3AAE-4ABB-87FF-FD2ADF804785}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\itododal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBInfo.cs",
+              "DocumentMoniker": "R:\\GITHUB\\Desktop-TODO\\ToDoApp\\DataAccess\\Concrete\\DBInfo.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\DBInfo.cs",
+              "ToolTip": "R:\\GITHUB\\Desktop-TODO\\ToDoApp\\DataAccess\\Concrete\\DBInfo.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\DBInfo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA8AAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T20:01:46.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "R:\\GITHUB\\Desktop-TODO\\ToDoApp\\ToDoUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "ToDoUI\\MainForm.cs",
+              "ToolTip": "R:\\GITHUB\\Desktop-TODO\\ToDoApp\\ToDoUI\\MainForm.cs",
+              "RelativeToolTip": "ToDoUI\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMBAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T13:23:40.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\GITHUB\\Desktop-TODO\\ToDoApp\\ToDoUI\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoUI\\Program.cs",
+              "ToolTip": "R:\\GITHUB\\Desktop-TODO\\ToDoApp\\ToDoUI\\Program.cs",
+              "RelativeToolTip": "ToDoUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T20:16:51.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "R:\\GITHUB\\Desktop-TODO\\ToDoApp\\ToDoUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "ToDoUI\\MainForm.cs",
+              "ToolTip": "R:\\GITHUB\\Desktop-TODO\\ToDoApp\\ToDoUI\\MainForm.cs [Design]",
+              "RelativeToolTip": "ToDoUI\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T13:53:33.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddTodoForm.cs",
+              "DocumentMoniker": "R:\\GITHUB\\Desktop-TODO\\ToDoApp\\ToDoUI\\AddTodoForm.cs",
+              "RelativeDocumentMoniker": "ToDoUI\\AddTodoForm.cs",
+              "ToolTip": "R:\\GITHUB\\Desktop-TODO\\ToDoApp\\ToDoUI\\AddTodoForm.cs",
+              "RelativeToolTip": "ToDoUI\\AddTodoForm.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T20:01:27.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLiteTodoDal.cs",
+              "DocumentMoniker": "R:\\GITHUB\\Desktop-TODO\\ToDoApp\\DataAccess\\Concrete\\SQLiteTodoDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\SQLiteTodoDal.cs",
+              "ToolTip": "R:\\GITHUB\\Desktop-TODO\\ToDoApp\\DataAccess\\Concrete\\SQLiteTodoDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\SQLiteTodoDal.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T20:01:37.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddTodoForm.cs [Design]",
+              "DocumentMoniker": "R:\\GITHUB\\Desktop-TODO\\ToDoApp\\ToDoUI\\AddTodoForm.cs",
+              "RelativeDocumentMoniker": "ToDoUI\\AddTodoForm.cs",
+              "ToolTip": "R:\\GITHUB\\Desktop-TODO\\ToDoApp\\ToDoUI\\AddTodoForm.cs [Design]",
+              "RelativeToolTip": "ToDoUI\\AddTodoForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T20:01:26.487Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITodoDal.cs",
+              "DocumentMoniker": "R:\\GITHUB\\Desktop-TODO\\ToDoApp\\DataAccess\\Abstract\\ITodoDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\ITodoDal.cs",
+              "ToolTip": "R:\\GITHUB\\Desktop-TODO\\ToDoApp\\DataAccess\\Abstract\\ITodoDal.cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\ITodoDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T12:55:27.896Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

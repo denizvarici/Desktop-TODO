@@ -9,3 +9,4 @@ R:\GITHUB\Desktop-TODO\ToDoApp\Entities\obj\Debug\net6.0-windows\Entities.dll
 R:\GITHUB\Desktop-TODO\ToDoApp\Entities\obj\Debug\net6.0-windows\refint\Entities.dll
 R:\GITHUB\Desktop-TODO\ToDoApp\Entities\obj\Debug\net6.0-windows\Entities.pdb
 R:\GITHUB\Desktop-TODO\ToDoApp\Entities\obj\Debug\net6.0-windows\ref\Entities.dll
+R:\GITHUB\Desktop-TODO\ToDoApp\Entities\obj\Debug\net6.0-windows\Entities.sourcelink.json

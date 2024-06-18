@@ -28,7 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
             btnAdd = new Button();
+            lblDeniz = new LinkLabel();
             SuspendLayout();
             // 
             // btnAdd
@@ -43,21 +45,37 @@
             btnAdd.UseVisualStyleBackColor = false;
             btnAdd.Click += btnAdd_Click;
             // 
+            // lblDeniz
+            // 
+            lblDeniz.AutoSize = true;
+            lblDeniz.Location = new Point(12, 711);
+            lblDeniz.Name = "lblDeniz";
+            lblDeniz.Size = new Size(161, 20);
+            lblDeniz.TabIndex = 2;
+            lblDeniz.TabStop = true;
+            lblDeniz.Text = "www.denizvarici.com.tr";
+            lblDeniz.VisitedLinkColor = Color.Blue;
+            lblDeniz.LinkClicked += lblDeniz_LinkClicked;
+            // 
             // MainForm
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.LightYellow;
             ClientSize = new Size(1267, 740);
+            Controls.Add(lblDeniz);
             Controls.Add(btnAdd);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "MainForm";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Todo App";
+            Text = "TODO App";
             Load += Form1_Load;
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
         private Button btnAdd;
+        private LinkLabel lblDeniz;
     }
 }

@@ -2,6 +2,7 @@ using Business.Abstract;
 using Business.Concrete;
 using DataAccess.Concrete;
 using Entities.Concrete;
+using System.Diagnostics;
 
 namespace ToDoUI
 {
@@ -214,6 +215,8 @@ namespace ToDoUI
             todoTitle = currentGroupBox.Text;
             todoText = currentGroupBox.Controls.OfType<RichTextBox>().FirstOrDefault().Text;
             todoIsDoneInfo = Convert.ToInt32(currentGroupBox.Controls.OfType<CheckBox>().FirstOrDefault().Checked);
+            currentGroupBox.Controls.OfType<RichTextBox>().FirstOrDefault().ReadOnly = true;
+            currentGroupBox.Controls.OfType<RichTextBox>().FirstOrDefault().BackColor = Color.Cornsilk;
 
 
 
@@ -260,12 +263,23 @@ namespace ToDoUI
 
         }
 
-       
+
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
             AddTodoForm addTodoForm = new AddTodoForm(this);
             addTodoForm.Show();
+        }
+
+        private void lblDeniz_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            string url = "https://www.denizvarici.com.tr";
+            ProcessStartInfo psi = new ProcessStartInfo
+            {
+                FileName = url,
+                UseShellExecute = true
+            };
+            Process.Start(psi);
         }
     }
 

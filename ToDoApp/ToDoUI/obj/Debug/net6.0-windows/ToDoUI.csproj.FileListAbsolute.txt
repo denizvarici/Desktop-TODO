@@ -25,6 +25,7 @@ R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\bin\Debug\net6.0-windows\Business.pdb
 R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\bin\Debug\net6.0-windows\DataAccess.pdb
 R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\bin\Debug\net6.0-windows\Entities.pdb
 R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\obj\Debug\net6.0-windows\ToDoUI.csproj.AssemblyReference.cache
-R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\obj\Debug\net6.0-windows\ToDoUI.csproj.CopyComplete
 R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\obj\Debug\net6.0-windows\ToDoUI.AddTodoForm.resources
 R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\obj\Debug\net6.0-windows\ToDoUI.MainForm.resources
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\obj\Debug\net6.0-windows\ToDoUI.sourcelink.json
+R:\GITHUB\Desktop-TODO\ToDoApp\ToDoUI\obj\Debug\net6.0-windows\ToDoUI.csproj.Up2Date

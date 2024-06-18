@@ -8,10 +8,11 @@ R:\GITHUB\Desktop-TODO\ToDoApp\Business\obj\Debug\net6.0-windows\Business.Genera
 R:\GITHUB\Desktop-TODO\ToDoApp\Business\obj\Debug\net6.0-windows\Business.AssemblyInfoInputs.cache
 R:\GITHUB\Desktop-TODO\ToDoApp\Business\obj\Debug\net6.0-windows\Business.AssemblyInfo.cs
 R:\GITHUB\Desktop-TODO\ToDoApp\Business\obj\Debug\net6.0-windows\Business.csproj.CoreCompileInputs.cache
-R:\GITHUB\Desktop-TODO\ToDoApp\Business\obj\Debug\net6.0-windows\Business.csproj.CopyComplete
 R:\GITHUB\Desktop-TODO\ToDoApp\Business\obj\Debug\net6.0-windows\Business.dll
 R:\GITHUB\Desktop-TODO\ToDoApp\Business\obj\Debug\net6.0-windows\refint\Business.dll
 R:\GITHUB\Desktop-TODO\ToDoApp\Business\obj\Debug\net6.0-windows\Business.pdb
 R:\GITHUB\Desktop-TODO\ToDoApp\Business\obj\Debug\net6.0-windows\ref\Business.dll
 R:\GITHUB\Desktop-TODO\ToDoApp\Business\bin\Debug\net6.0-windows\DataAccess.dll
 R:\GITHUB\Desktop-TODO\ToDoApp\Business\bin\Debug\net6.0-windows\DataAccess.pdb
+R:\GITHUB\Desktop-TODO\ToDoApp\Business\obj\Debug\net6.0-windows\Business.sourcelink.json
+R:\GITHUB\Desktop-TODO\ToDoApp\Business\obj\Debug\net6.0-windows\Business.csproj.Up2Date

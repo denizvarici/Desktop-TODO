@@ -12,10 +12,11 @@ namespace DataAccess.Concrete
         //public static string connectionString = "Data Source = R:\\GITHUB\\Desktop-TODO\\ToDoApp\\ToDoUI\\bin\\Debug\\net6.0-windows\\ToDo.db";
         public static string C()
         {
-          
-            string currentDirectory = Directory.GetCurrentDirectory();
 
-          
+            string currentDirectory = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData);
+
+
+
             string databaseFileName = "ToDo.db";
 
         
